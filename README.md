@@ -23,10 +23,10 @@ install.packages("hrbrthemes")
 ```
 ## Steps to be followed to execute the program locally:
 ---
-- Downlaod or clone the package from https://github.com/kavyabgowda/A3-Assignment-KavyaBhadreGowda and open in R-Studio installed with above mentioned dependencies.
-- To open the Project go to "A3-Assignment-KavyaBhadreGowda-master" Folder in the downloaded Package from the repository and open "AirPollutionSeoulDataVisualization" R Project File in R-Studio.
+- Download or clone the package from "https://drive.google.com/drive/u/1/folders/1Zb7GgH6SeobHrzvktBCkxOsqDaUpnJ9i", since the data folder exceeds the limit of 100MB, the whole artifact with data is available in this publicly accessible shared drive. After downlaoding the package with data Folder, open the project in R-Studio installed with above mentioned dependencies.
+- To open the Project go to root Folder in the downloaded Package from the shared repository and open "AirPollutionSeoulDataVisualization" R Project File in R-Studio.
 - After opening the Project open the app.R and Click on "Run in window" in R-studio to execute the project and check for results.
-- Deried dataset is available in the same root directory under "data" Folder with name "Measurment-Per-Day.csv". The script used for pre-processing the data is also available in the same folder as "Script-to-format-data-by-date".
+- Derived dataset is available in the same root directory under "data" Folder with name "Measurment-Per-Day.csv". The script used for pre-processing the data is also available in the same folder as "Script-to-format-data-by-date".
 - Once the project is ran visualize the Air pollution data and do analysis by trying out various Input options provided and also clicking on Navigation bar options to see better results.
 
 ## Seoul Air Pollution Data Visualizations
